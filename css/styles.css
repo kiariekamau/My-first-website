@@ -13,3 +13,15 @@ p {
 ul {
     line-height: 40px;
 }
+.line1 {
+    color: coral;
+}
+#line2 {
+    color: crimson;
+}
+.important {
+    color: crimson;
+}
+.unimportant {
+    color: darkkhaki;
+}
